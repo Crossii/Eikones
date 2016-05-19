@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+      <h1>Eikones</h1>
+        <asp:Button ID="LinkButton" runat="server" Text="Continous"  OnClick="LinkButton_Click"/>
     </div>
     </form>
 </body>

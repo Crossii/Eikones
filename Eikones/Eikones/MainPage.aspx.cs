@@ -11,6 +11,11 @@ namespace Eikones
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+           
+        }
+
+        protected void LinkButton_Click(object sender, EventArgs e)
+        {
 
         }
     }
